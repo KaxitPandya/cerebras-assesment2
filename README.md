@@ -1,6 +1,6 @@
-#NOTE: Used (allenai/OLMoE-1B-7B-0924), instead of (Qwen/Qwen1.5-MoE-A2.7B-Chat) due to resource constraint
+### NOTE: Used (allenai/OLMoE-1B-7B-0924), instead of (Qwen/Qwen1.5-MoE-A2.7B-Chat) due to resource constraint
 
-#Direct access of Code with logs on Google Colab (No Permission Required): https://colab.research.google.com/drive/1ba0p9iRQEmtomJ2gquANJoBORvqtktgI?usp=sharing
+### Direct access of Code with logs on Google Colab (No Permission Required): https://colab.research.google.com/drive/1ba0p9iRQEmtomJ2gquANJoBORvqtktgI?usp=sharing
 
 <img width="521" height="440" alt="image" src="https://github.com/user-attachments/assets/bfb50d1f-96c0-4042-896f-f81e39881ab9" />
 
